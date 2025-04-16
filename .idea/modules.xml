@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/portfolio-poo-java.iml" filepath="$PROJECT_DIR$/.idea/portfolio-poo-java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tarefa1-animal/tarefa1-animal.iml" filepath="$PROJECT_DIR$/tarefa1-animal/tarefa1-animal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tarefa2-veiculos/tarefa2-veiculos.iml" filepath="$PROJECT_DIR$/tarefa2-veiculos/tarefa2-veiculos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tarefa3-Funcionarios/tarefa3-Funcionarios.iml" filepath="$PROJECT_DIR$/tarefa3-Funcionarios/tarefa3-Funcionarios.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tarefa4-PersonagensDeRPG/tarefa4-PersonagensDeRPG.iml" filepath="$PROJECT_DIR$/tarefa4-PersonagensDeRPG/tarefa4-PersonagensDeRPG.iml" />
+    </modules>
+  </component>
+</project>
